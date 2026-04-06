@@ -50,6 +50,9 @@ h1 {
     align-self: center;
     margin-top: auto;
 }
+.Inverso {
+    flex-direction: row-reverse;
+}
 
 .instrucoes {
     width: 80%;
